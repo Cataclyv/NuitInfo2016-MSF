@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="493420a3-c0d0-4dc0-9c0b-d3f1e87f1794" name="test" url="http://info-timide.iut.u-bordeaux.fr/perso/2016/nprieto">
+        <fileTransfer host="info-timide.iut.u-bordeaux.fr/perso/2016/nprieto" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
